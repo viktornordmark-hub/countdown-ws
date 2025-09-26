@@ -1,2 +1,3 @@
 # countdown-ws
-workshop doe25
+Enkelt nedräknar-script.
+Workshop fre 26/9
